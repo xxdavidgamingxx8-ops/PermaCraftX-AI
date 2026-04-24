@@ -1,1 +1,8 @@
-
+print("Welcome To PermaCraftX!")
+print("im your ai assisrant i'll help you Get Info About this Website / Server")
+input("so what you want\n")
+input("ask me these questions : 1-What is this server abt 2-how does it work 3-what version this server is compatible with 4-how many and what plugins are in this server")
+print("answers : 1-is a smp like all youtubers join with god items ect")
+print("2-follow the rules to know how")
+print("3-the owner didn't test on all versions but i beleive that is compatible with 26.1.1-1.8")
+print("4-40 plugins plus 1 plugin that is going to make alot of changes")
